@@ -1,0 +1,20 @@
+fr:
+welcome: "Bienvenue! Comment vous appelez-vous?"
+valid_name: "Merci d'entrer un nom valide."
+first_number: "Quel est ton premier numéro?"
+second_number: "Quel est ton deuxième numéro?"
+not_valid: "Ce n'est pas un numéro!"
+must_choose: "Voulez-vous calculer à nouveau? (Y à calculer à nouveau)"
+thank_you: "Merci beaucoup pour utliser la calculatrice. Au revoir!"
+
+en:
+welcome: "Welcome to Calculator! Enter your name:"
+valid_name: "Make sure to enter a valid name."
+first_number: "What is the first number?"
+second_number: "What is the second number?"
+not_valid: "Hmm.. that doesn't look like a valid number"
+must_choose: "Must choose 1, 2, 3 or 4"
+calculate_again: "Do you want to perform another calculation? (Y to calculate again)"
+thank_you: "Thank you for using the calculator. Good bye!"
+
+# ... rest of file omitted for brevity
